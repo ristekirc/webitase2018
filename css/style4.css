@@ -2075,7 +2075,7 @@ a.box:active {
     border-color: transparent;
     color: #fff; }
     .button.is-purple:hover, .button.is-purple.is-hovered {
-      background-color: #089d95;
+      background-color: #624697;
       border-color: transparent;
       color: #fff; }
     .button.is-purple:focus, .button.is-purple.is-focused {
@@ -2191,7 +2191,7 @@ a.box:active {
         box-shadow: none;
         color: #fff; }
   .button.is-orange {
-    background-color: #089d95;
+    background-color: #f7931e;
     border-color: transparent;
     color: #fff; }
     .button.is-orange:hover, .button.is-orange.is-hovered {
@@ -9386,7 +9386,7 @@ label.panel-block {
   .app-footer.is-footer-kompetisi {
     background: #089d95;
     background: -webkit-linear-gradient(300deg, #089d95, #65cb67);
-    background: linear-gradient(135deg, #f06562, #e5487c); }
+    background: linear-gradient(300deg, #089d95, #65cb67); }
   .app-footer.is-footer-ccomp {
     background-color: #36d1dc;
     background: -webkit-linear-gradient(300deg, #36d1dc, #5b86e5);
@@ -9468,9 +9468,9 @@ label.panel-block {
           -webkit-filter: grayscale(0); }
 
 .app-content-kategori section.is-intro {
-  background: #f06562;
-  background: url(), -webkit-linear-gradient(3135deg, #f06562, #e5487c);
-  background: url(), linear-gradient(135deg, #1a4c93, #0bf1e1);
+  background: #089d95;
+  background: url(), -webkit-linear-gradient(300deg, #089d95, #65cb67);
+  background: url(), linear-gradient(300deg, #1a4c93, #0bf1e1);
   background-size: 100%, cover, cover;
   background-repeat: no-repeat;
   background-position: bottom; }
